@@ -2,6 +2,9 @@ import React from "react";
 import "./Header.css";
 import MenuIcon from "@mui/icons-material/Menu";
 import SearchIcon from "@mui/icons-material/Search";
+import VideoCallIcon from "@mui/icons-material/VideoCall";
+import AppsIcon from "@mui/icons-material/Apps";
+import NotificationsIcon from "@mui/icons-material/Notifications";
 function Header() {
   return (
     <div className="header">
@@ -13,6 +16,9 @@ function Header() {
       />
       <input type="text" />
       <SearchIcon />
+      <VideoCallIcon />
+      <AppsIcon />
+      <NotificationsIcon />
     </div>
   );
 }
