@@ -5,6 +5,7 @@ import SearchIcon from "@mui/icons-material/Search";
 import VideoCallIcon from "@mui/icons-material/VideoCall";
 import AppsIcon from "@mui/icons-material/Apps";
 import NotificationsIcon from "@mui/icons-material/Notifications";
+import { Avatar } from "@mui/material";
 function Header() {
   return (
     <div className="header">
@@ -19,6 +20,7 @@ function Header() {
       <VideoCallIcon />
       <AppsIcon />
       <NotificationsIcon />
+      <Avatar alt="Mede" src="ss" />
     </div>
   );
 }
