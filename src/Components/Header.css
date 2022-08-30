@@ -17,6 +17,16 @@
   border: 1px solid black;
 }
 
+.header__inputButton {
+  width: 50px !important;
+  color: gray;
+  background-color: #fafafa;
+  border-left: 1px solid lightgray;
+}
+
+.header__icon {
+  margin-right: 8px;
+}
 .header__icons {
   display: flex;
   align-items: center;
