@@ -1,8 +1,8 @@
 import React from "react";
 import TuneOutlinedIcon from "@mui/icons-material/Tune";
 import "./SearchPage.css";
-import ChannelRow from "./ChannelRow";
 import VideoRow from "./VideoRow";
+import ChannelRow from "./ChannelRow";
 
 function SearchPage() {
   return (
