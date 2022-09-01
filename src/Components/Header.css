@@ -16,9 +16,10 @@
 }
 
 .header__logo {
-  height: 28px;
+  height: 30px;
   object-fit: contain;
   margin-left: 20px;
+  padding-top: 2px;
 }
 
 .header__input {
@@ -49,7 +50,7 @@
 }
 
 .header .MuiSvgIcon-root {
-  font-size: 1.75rem !important;
+  font-size: 1.8rem !important;
 }
 
 .header .MuiAvatar-root {
