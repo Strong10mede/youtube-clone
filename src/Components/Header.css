@@ -8,6 +8,10 @@
   background-color: white;
 }
 
+.header__left {
+  margin-left: 0.5rem;
+}
+
 .header__logo {
   height: 25px;
   object-fit: contain;
@@ -39,4 +43,13 @@
 .header__input > input {
   flex: 1;
   border: none;
+}
+
+.header .MuiSvgIcon-root {
+  font-size: 1.75rem !important;
+}
+
+.header .MuiAvatar-root {
+  width: 28px !important;
+  height: 28px !important;
 }
