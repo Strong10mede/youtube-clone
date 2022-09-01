@@ -22,7 +22,7 @@ function Header() {
         </Link>
       </div>
 
-      <div className="header__input">
+      <form className="header__input">
         <input
           onChange={(e) => setInputSearch(e.target.value)}
           value={inputSearch}
@@ -32,7 +32,7 @@ function Header() {
         <Link to={`/search/${inputSearch}`}>
           <SearchIcon className="header__inputButton" />
         </Link>
-      </div>
+      </form>
 
       <div className="header__icons">
         <VideoCallIcon className="header__icon" />

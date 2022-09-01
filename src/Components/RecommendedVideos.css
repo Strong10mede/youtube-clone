@@ -13,3 +13,9 @@
   display: flex;
   flex-wrap: wrap;
 }
+
+@media (max-width: 500px) {
+  .recommendedVideos {
+    flex: 1 1;
+  }
+}
