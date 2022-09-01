@@ -16,6 +16,12 @@
   margin-top: 10px;
 }
 
+@media (max-width: 500px) {
+  .searchPage {
+    flex: 1 1;
+  }
+}
+
 .searchPage > hr {
   height: 1px;
   border: 0;
