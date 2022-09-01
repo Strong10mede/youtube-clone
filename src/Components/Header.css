@@ -57,3 +57,9 @@
   width: 28px !important;
   height: 28px !important;
 }
+
+@media (max-width: 600px) {
+  .header__input {
+    display: none;
+  }
+}
