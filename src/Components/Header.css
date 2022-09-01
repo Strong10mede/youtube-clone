@@ -10,10 +10,13 @@
 
 .header__left {
   margin-left: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .header__logo {
-  height: 25px;
+  height: 28px;
   object-fit: contain;
   margin-left: 20px;
 }
