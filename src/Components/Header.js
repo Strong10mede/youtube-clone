@@ -39,8 +39,8 @@ function Header() {
         <AppsIcon className="header__icon" />
         <NotificationsIcon className="header__icon" />
         <Avatar
-          alt="Tomnomnom"
-          src="https://avatars0.githubusercontent.com/u/50357969?s=460&u=95f9a7d2c9083d9beb17945c4e358e0aa3421ce7&v=4"
+          alt="Mede"
+          src="https://avatars.githubusercontent.com/u/56781844?v=4"
         />
       </div>
     </div>
