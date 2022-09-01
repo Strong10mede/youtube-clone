@@ -1,7 +1,8 @@
 .channelRow {
   display: flex;
   align-items: center;
-  width: 70%;
+  width: 100%;
+  column-gap: 20px;
 }
 
 .channelRow__text {
