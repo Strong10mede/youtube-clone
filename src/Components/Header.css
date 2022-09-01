@@ -18,7 +18,7 @@
 .header__logo {
   height: 30px;
   object-fit: contain;
-  margin-left: 20px;
+  margin-left: 0.5rem;
   padding-top: 2px;
 }
 

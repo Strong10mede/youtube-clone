@@ -9,3 +9,9 @@
   margin-top: 10px;
   margin-bottom: 10px;
 }
+
+@media (max-width: 500px) {
+  .sidebar {
+    display: none;
+  }
+}
