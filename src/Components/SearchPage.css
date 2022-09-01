@@ -9,6 +9,7 @@
   align-items: center;
   color: #606060;
   font-size: xx-small !important;
+  column-gap: 5px;
 }
 
 .searchPage__filter > h2 {
